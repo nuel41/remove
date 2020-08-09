@@ -1,6 +1,6 @@
 <?php
 
-	define("BASE_URL", "http://localhost/weshop/");
+	define("BASE_URL", "https://saberwell04.github.io/remove/");
 	
 	$arrayStatusPesanan[0] = "Menunggu Pembayaran";
 	$arrayStatusPesanan[1] = "Pembayaran Sedang Di Validasi";
